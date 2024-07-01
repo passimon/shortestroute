@@ -1,4 +1,4 @@
-# shortestroute or www.shortestroute.net
+# Descr www.shortestroute.net
 Source Code (obfuscated) of https://shortestroute.net (HTML, CSS, Vanilla JS)
 
 What's included:
