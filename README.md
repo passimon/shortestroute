@@ -2,6 +2,7 @@
 Source Code (obfuscated) of https://shortestroute.net (HTML, CSS, Vanilla JS)
 
 What's included:
+
 ✔️ Choose 6 free map styles aka layers (Leaflet)
 
 ✔️ Enjoy responsive design incl. dark/day mode (Bootstrap 5)
@@ -21,5 +22,7 @@ What's included:
 ✔️ Choose between 8 additional map features
 
 
+
 What's missing:
+
 ( ) Fix 3D Buildings CORS
