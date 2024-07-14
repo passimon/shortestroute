@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ga-tsp": "^2.0.1",
+    "leaflet-environmental-layers": "^2.4.9",
+    "leaflet.elevation": "^0.0.3",
+    "pdf2json": "^3.0.3",
+    "salesman.js": "^2.0.4",
+    "tesseract.js": "^4.0.2"
+  }
+}
