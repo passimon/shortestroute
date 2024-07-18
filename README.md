@@ -1,19 +1,19 @@
 # Descr www.shortestroute.net
-Source Code (obfuscated) of https://shortestroute.net (HTML, CSS, Vanilla JS)
+Source Code of https://shortestroute.net (HTML, CSS, Vanilla JS)
 
 What's included:
 
 ✔️ Pick 6 free map styles aka layers (Leaflet)
 
-✔️ Enjoy responsive design incl. dark/day mode (Bootstrap 5)
+✔️ View responsive design incl. dark/day mode (Bootstrap 5)
 
 ✔️ Add markers via click, search or CSV import (Papa Parse)
 
 ✔️ Sort and filter added markers aka waypoints
 
-✔️ Visualize a route in seconds (OSRM)
+✔️ Visualize your travel route in seconds (OSRM)
 
-✔️ Navigate your optimized route with Google Maps
+✔️ Navigate via Google Maps navigation
 
 ✔️ Export a route or waypoints in GPX or PNG-Screenshot (2GPX)
 
