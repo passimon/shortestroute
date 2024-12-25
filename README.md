@@ -1,6 +1,7 @@
 # Description
 
 Features:
+
 ✔️ Choose 6 different map layer styles
 
 ✔️ Responsive design incl. dark/day mode
@@ -21,4 +22,5 @@ Features:
 
 
 TBA:
+
 ❌ Fix 3D Buildings CORS
